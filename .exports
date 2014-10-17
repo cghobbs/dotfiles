@@ -23,3 +23,7 @@ export GREP_OPTIONS="--color=auto";
 
 # Link Homebrew casks in `/Applications` rather than `~/Applications`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications";
+
+# Dashing variables for Google APIs
+export GOOGLE_CLIENT_ID="967624774598-l5919rmb4dqc6sld92fs0tu87c1g10v3.apps.googleusercontent.com"
+export GOOGLE_CLIENT_SECRET="nKz6zc9zg_Xlq9e4WpfKgNeS"
