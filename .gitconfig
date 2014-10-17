@@ -157,3 +157,8 @@
 [url "git://gist.github.com/"]
 
 	insteadOf = "gist:"
+
+[user]
+
+	name = Chris Geoghegan
+	email = chris.geoghegan@gmail.com
